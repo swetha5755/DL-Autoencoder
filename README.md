@@ -79,9 +79,12 @@ visualize_denoising(model, test_loader)
 
 
 ### Training loss
+<img width="328" height="193" alt="image" src="https://github.com/user-attachments/assets/7360fb07-6b4d-40bc-a50b-562b1f90c1dc" />
 
 ## Original vs Noisy Vs Reconstructed Image
-<img width="328" height="193" alt="image" src="https://github.com/user-attachments/assets/7360fb07-6b4d-40bc-a50b-562b1f90c1dc" />
+
+<img width="1734" height="326" alt="image" src="https://github.com/user-attachments/assets/e4ea6c21-0dd5-49d8-bc28-2360a7d08fb4" />
+<img width="984" height="326" alt="image" src="https://github.com/user-attachments/assets/022c0c0d-c69c-46b0-8852-5c54c0d930b6" />
 
 ## RESULT
 This program has been executed successfully.
